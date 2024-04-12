@@ -9,3 +9,6 @@ const task2 = {
     createdAt: new Date(),
     completed: false
 }
+
+console.log(task1)
+console.log(task1)
