@@ -6,4 +6,5 @@ function muda(x) {
 }
 
 muda(x);
+//mudaX(10)
 console.log("x externo", x);
