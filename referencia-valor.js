@@ -1,6 +1,6 @@
 let x = 10;
 
-function muda(n) {
+function muda(x) {
     x++;
     console.log("x interno", x);
 }
