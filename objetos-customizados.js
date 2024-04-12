@@ -1,4 +1,11 @@
 const task1 = {
     nome: "task1",
-    createdAt: new Date()
+    createdAt: new Date(),
+    completed: false
+};
+
+const task2 = {
+    nome: "task2",
+    createdAt: new Date(),
+    completed: false
 }
