@@ -15,3 +15,7 @@ console.log("str.length")
 const str2=  new String("minha string 2");
 console.log(str2);
 console.log(str2.length);
+
+const data1 = Date()
+console.log(data1)
+console.log(typeof data1)
