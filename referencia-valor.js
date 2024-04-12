@@ -1,10 +1,11 @@
-let x = 10;
+let x =[10]
 
 function muda(x) {
-    x++;
+    x.push(11)
     console.log("x interno", x);
 }
 
-muda(x);
-//mudaX(10)
-console.log("x externo", x);
+function mudaY(obj) {
+    obj.n++
+}
+
